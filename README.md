@@ -1,83 +1,60 @@
-<!-- Premium Nature-Inspired GitHub Profile README -->
+<!-- Premium Professional GitHub Profile README -->
 
 <h1 align="center">
-  <img src="assets/banner.png" alt="Aradhya Bhagwat - Software Engineer" width="100%" />
+  Hi, I'm Aradhya Bhagwat 👋
 </h1>
 
 <p align="center">
-  <strong>🌿 Full-Stack Developer, iOS Engineer & QA Automation Specialist</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Software+Engineer;iOS+Developer;QA+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  Crafting elegant, performant, and highly reliable digital experiences across web and mobile ecosystems.
+  <a href="https://linkedin.com/in/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1b4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:aradhya.bhagwat@example.com"><img src="https://img.shields.io/badge/Email-1b4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1b4332?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>&nbsp;&nbsp;
+  <a href="https://aradhya.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1b4332?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2D6A4F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:aradhya.bhagwat@example.com"><img src="https://img.shields.io/badge/Email-40916C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://leetcode.com/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LeetCode-52B788?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://aradhya.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-74C69D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <i>🌿 Dedicated to building high-performance, visually elegant, and structurally sound digital experiences across web and mobile ecosystems.</i>
 </p>
 
 ---
 
-### 🌿 About Me
+### 🧑‍💻 About Me
 
-Hi there! 👋 I am **Aradhya Bhagwat**, a multi-faceted **Software Engineer** specializing in full-stack web development, native iOS apps, and comprehensive QA testing automation. Grounded in a clean, nature-inspired design philosophy, I build high-performance software that is beautiful on the outside and structured on the inside.
+Hi there! I am **Aradhya Bhagwat**, a passionate Software Engineer bridging the gap between elegant frontend/mobile design and robust automated validation. Grounded in a clean, nature-inspired design philosophy, I build high-performance software that is beautiful on the outside and structured on the inside.
 
-- 🔭 **Current Focus**: Designing robust full-stack systems and creating immersive iOS mobile experiences.
-- 📱 **Mobile Craftsmanship**: Building modern, intuitive native interfaces using SwiftUI and classic Storyboard architectures.
-- 🧪 **Quality First**: Implementing end-to-end automated testing to guarantee product quality and stability.
-- 🌱 **Learning & Exploration**: Keeping up with advanced cloud patterns and interactive UI technologies.
+*   🚀 **Core Engineering**: Specialized in full-stack architectures and high-performance native iOS development.
+*   🛡️ **Quality & Reliability**: Expert in establishing automated CI/CD validation pipelines using Playwright and standard testing practices.
+*   📱 **Mobile Artistry**: Experienced in designing fluid native interfaces using SwiftUI and UIKit.
+*   ⚡ **Modern Stack**: Adept with Supabase, MongoDB, React, and modern cloud database ecosystems.
 
 ---
 
 ### 🛠️ Tech Stack & Ecosystem
 
-I work across the stack to build, deploy, and verify modern software systems:
+I work across the stack to build, deploy, and verify modern software systems. Here is a curated grid of the technologies I use:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Programming & Web</h3>
-      <img src="https://img.shields.io/badge/C-1B4332?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/C%2B%2B-2D6A4F?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/JavaScript-40916C?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-52B788?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-74C69D?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 iOS Development</h3>
-      <img src="https://img.shields.io/badge/SwiftUI-2D6A4F?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-      <img src="https://img.shields.io/badge/UIKit%20%2F%20Storyboard-40916C?style=flat-square&logo=apple&logoColor=white" alt="Storyboard" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☁️ Backend & Database</h3>
-      <img src="https://img.shields.io/badge/Supabase-40916C?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/MySQL-2D6A4F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-1B4332?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧪 QA & DevOps</h3>
-      <img src="https://img.shields.io/badge/Playwright-40916C?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-      <img src="https://img.shields.io/badge/Azure%20DevOps-2D6A4F?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,swift,apple,supabase,mongodb,mysql,postgres,azure,git,github&perline=7" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Metrics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&theme=nature_green&bg_color=0c1510&title_color=74c69d&text_color=e9ecef&icon_color=40916c&border_color=1b4332&hide=contribs" alt="Aradhya's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&theme=black-green&background=0c1510&fire=74c69d&ring=40916c&currStreakLabel=74c69d&currStreakNum=e9ecef&sideNums=e9ecef&sideLabels=74c69d&border=1b4332" alt="Aradhya's Streak Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true&hide=contribs" alt="Aradhya's GitHub Stats" height="165" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2d6a4f&ring=40916c&currStreakLabel=40916c&currStreakNum=2d6a4f&sideNums=2d6a4f&sideLabels=40916c&border=00000000" alt="Aradhya's Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&theme=nature_green&bg_color=0c1510&title_color=74c69d&text_color=e9ecef&icon_color=40916c&border_color=1b4332" alt="Top Languages Card" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true" alt="Top Languages Card" height="165" />
 </p>
 
 ---
