@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Software+Engineer;iOS+Developer;QA+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=23&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Software+Engineer;iOS+Developer;QA+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,25 +18,41 @@
 </p>
 
 <p align="center">
-  <i>🌿 Dedicated to building high-performance, visually elegant, and structurally sound digital experiences across web and mobile ecosystems.</i>
+  <i>🌿 Dedicated to crafting elegant, performant, and highly reliable digital experiences across web and mobile ecosystems.</i>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-
-Hi there! I am **Aradhya Bhagwat**, a passionate Software Engineer bridging the gap between elegant frontend/mobile design and robust automated validation. Grounded in a clean, nature-inspired design philosophy, I build high-performance software that is beautiful on the outside and structured on the inside.
-
-*   🚀 **Core Engineering**: Specialized in full-stack architectures and high-performance native iOS development.
-*   🛡️ **Quality & Reliability**: Expert in establishing automated CI/CD validation pipelines using Playwright and standard testing practices.
-*   📱 **Mobile Artistry**: Experienced in designing fluid native interfaces using SwiftUI and UIKit.
-*   ⚡ **Modern Stack**: Adept with Supabase, MongoDB, React, and modern cloud database ecosystems.
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🧑‍💻 Who I Am</h3>
+      <p>
+        I am a <strong>Software Engineer</strong> specializing in full-stack web architectures, native iOS mobile development, and robust QA automation systems. Grounded in a clean, nature-inspired engineering philosophy, I build high-performance software that is beautiful on the outside and structurally sound on the inside.
+      </p>
+      <p>
+        My goal is to deliver clean code, intuitive designs, and high-fidelity testing coverage to ensure software products are both delightful to use and resilient under load.
+      </p>
+    </td>
+    <td width="8%"></td>
+    <td width="32%" valign="top">
+      <h3>📊 Quick Facts</h3>
+      <ul>
+        <li>💼 <strong>Focus:</strong> iOS & Full-Stack</li>
+        <li>📱 <strong>iOS:</strong> SwiftUI, UIKit, Xcode</li>
+        <li>🛡️ <strong>QA:</strong> Playwright, CI/CD</li>
+        <li>🚀 <strong>Drive:</strong> Clean code, performance</li>
+        <li>📍 <strong>Location:</strong> India</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack & Skills
 
-I work across the stack to build, deploy, and verify modern software systems. Here is a curated grid of the technologies I use:
+Here is a curated grid of the languages, frameworks, and developer tools I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,13 +64,20 @@ I work across the stack to build, deploy, and verify modern software systems. He
 
 ### 📊 GitHub Metrics & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true&hide=contribs" alt="Aradhya's GitHub Stats" height="165" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2d6a4f&ring=40916c&currStreakLabel=40916c&currStreakNum=2d6a4f&sideNums=2d6a4f&sideLabels=40916c&border=00000000" alt="Aradhya's Streak Stats" height="165" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true&hide=contribs" alt="GitHub Stats" height="175" />
+    </td>
+    <td width="20"></td>
+    <td valign="top" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2d6a4f&ring=40916c&currStreakLabel=40916c&currStreakNum=2d6a4f&sideNums=2d6a4f&sideLabels=40916c&border=00000000" alt="GitHub Streak" height="175" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true" alt="Top Languages Card" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true" alt="Top Languages Card" height="175" />
 </p>
 
 ---
