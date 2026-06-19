@@ -28,7 +28,7 @@
     <td width="60%" valign="top">
       <h3>🧑‍💻 Who I Am</h3>
       <p>
-        I am a <strong>Software Engineer</strong> specializing in full-stack web architectures, native iOS mobile development, and robust QA automation systems. Grounded in a clean, nature-inspired engineering philosophy, I build high-performance software that is beautiful on the outside and structurally sound on the inside.
+        I am a <strong>Software Engineer</strong> specialising in full-stack web architectures, native iOS mobile development, and robust QA automation systems. Grounded in a clean, nature-inspired engineering philosophy, I build high-performance software that is beautiful on the outside and structurally sound on the inside.
       </p>
       <p>
         My goal is to deliver clean code, intuitive designs, and high-fidelity testing coverage to ensure software products are both delightful to use and resilient under load.
@@ -56,7 +56,14 @@ Here is a curated grid of the languages, frameworks, and developer tools I work 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,swift,apple,supabase,mongodb,mysql,postgres,azure,git,github&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,py,c,cpp,swift&perline=9" alt="Programming Languages & Frontend" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,nodejs,supabase,mongodb,mysql,postgres,git,github&perline=8" alt="Backend & Tools" />
+  </a>
+  <a href="https://playwright.dev">
+    <img src="https://raw.githubusercontent.com/Aradhya-Bhagwat/Aradhya-Bhagwat/main/assets/playwright.svg" alt="Playwright" width="48" height="48" style="vertical-align: top;" />
   </a>
 </p>
 
@@ -78,6 +85,20 @@ Here is a curated grid of the languages, frameworks, and developer tools I work 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true" alt="Top Languages Card" height="175" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+Here is a showcase of the official milestones and badges earned through my contributions:
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor" width="80" />
 </p>
 
 ---
