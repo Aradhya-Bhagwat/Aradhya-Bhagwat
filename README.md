@@ -1,111 +1,165 @@
 <!-- Premium Professional GitHub Profile README -->
 
-<h1 align="center">
-  Hi, I'm Aradhya Bhagwat 👋
-</h1>
-
+<h1 align="center">🌿 Aradhya Bhagwat</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Outfit&size=23&duration=3000&pause=1000&color=2D6A4F&center=true&vCenter=true&width=600&lines=Software+Engineer;iOS+Developer;QA+Automation+Specialist;Full-Stack+Developer" alt="Typing SVG" />
-  </a>
+  <b>Software Engineer &bull; Nature Tech Enthusiast &bull; Tabla Player</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1b4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="mailto:aradhya.bhagwat@example.com"><img src="https://img.shields.io/badge/Email-1b4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Aradhya-Bhagwat" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1b4332?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>&nbsp;&nbsp;
-  <a href="https://aradhya.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1b4332?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <i>"Rooted in nature, powered by code."</i>
 </p>
 
 <p align="center">
-  <i>🌿 Dedicated to crafting elegant, performant, and highly reliable digital experiences across web and mobile ecosystems.</i>
+  I design and develop intelligent digital experiences that mirror the efficiency, balance, and beauty of the natural world.
 </p>
+
+<br/>
 
 ---
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🧑‍💻 Who I Am</h3>
-      <p>
-        I am a <strong>Software Engineer</strong> specialising in full-stack web architectures, native iOS mobile development, and robust QA automation systems. Grounded in a clean, nature-inspired engineering philosophy, I build high-performance software that is beautiful on the outside and structurally sound on the inside.
-      </p>
-      <p>
-        My goal is to deliver clean code, intuitive designs, and high-fidelity testing coverage to ensure software products are both delightful to use and resilient under load.
-      </p>
-    </td>
-    <td width="8%"></td>
-    <td width="32%" valign="top">
-      <h3>📊 Quick Facts</h3>
-      <ul>
-        <li>💼 <strong>Focus:</strong> iOS & Full-Stack</li>
-        <li>📱 <strong>iOS:</strong> SwiftUI, UIKit, Xcode</li>
-        <li>🛡️ <strong>QA:</strong> Playwright, CI/CD</li>
-        <li>🚀 <strong>Drive:</strong> Clean code, performance</li>
-        <li>📍 <strong>Location:</strong> India</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🌱 The Skill Grove
+*A living snapshot of the technical tools and domains I grow with:*
+
+* **📱 Swift Ecosystem & iOS**: Native Apple-platform experiences utilizing Swift, SwiftUI, SwiftData, and AVFoundation.
+* **⚡ Backend & Cloud**: Scalable architectures built with Node.js, Express, and Supabase for secure auth and real-time database syncing.
+* **🔌 IoT & Sensor Networks**: Researching and developing smart sensor networks for environmental monitoring, agriculture, and sustainable solutions.
+* **🧠 Machine Learning & Data**: Integrating predictive models and intelligent algorithms, from bird migration tracking to risk assessment engines.
+* **⚙️ C++ & OOP Foundations**: Strong background in object-oriented programming, dynamic memory allocation, and core software design principles.
+* **🎨 UI/UX Design**: Immersive, nature-inspired digital interfaces that balance clean, organic aesthetics with intuitive UX.
+* **🔄 Agile Workflows**: Experienced in Scrum practices, team collaboration, Jira, and managing structured sprint pipelines.
+
+<br/>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🌳 Career Canopy
+*Professional milestones and growth rings:*
 
-Here is a curated grid of the languages, frameworks, and developer tools I work with:
+* **Infosys** &bull; *iOS Application Development Intern* (Apr 2026 - May 2026)
+  - Collaborated in a 10-member cross-functional Agile Scrum team.
+  - Participating in daily standups, sprint planning, and reviews.
+  - Completed intensive corporate leadership and client-facing communication trainings.
+  - *Stack:* SwiftUI, Supabase, Jira.
+* **MyCaptain** &bull; *Courses Facilitator Intern* (Jun 2025 - Aug 2025)
+  - Mentored over 200+ students through interactive structured learning sessions.
+  - Managed coordination, participant engagement data, and designed presentations.
+  - *Tools:* Excel, Canva, Zoom.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,py,c,cpp,swift&perline=9" alt="Programming Languages & Frontend" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,nodejs,supabase,mongodb,mysql,postgres,git,github&perline=8" alt="Backend & Tools" />
-  </a>
-  <a href="https://playwright.dev">
-    <img src="https://raw.githubusercontent.com/Aradhya-Bhagwat/Aradhya-Bhagwat/main/assets/playwright.svg" alt="Playwright" width="48" height="48" style="vertical-align: top;" />
-  </a>
-</p>
+<br/>
 
 ---
 
-### 📊 GitHub Metrics & Insights
+### 🏡 Project Garden
+*A curated collection of digital systems I've cultivated:*
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true&hide=contribs" alt="GitHub Stats" height="175" />
-    </td>
-    <td width="20"></td>
-    <td valign="top" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2d6a4f&ring=40916c&currStreakLabel=40916c&currStreakNum=2d6a4f&sideNums=2d6a4f&sideLabels=40916c&border=00000000" alt="GitHub Streak" height="175" />
-    </td>
-  </tr>
-</table>
+<!-- SkyTrails -->
+<details open>
+  <summary><b>📱 SkyTrails — Featured iOS Product</b></summary>
+  <br/>
+  <p>
+    An intelligent bird identification and migration prediction iOS app using BirdFlow ML model, with SwiftData for offline local caching and Supabase for secure cloud synchronization.
+  </p>
+  <ul>
+    <li><b>Stack:</b> Swift Storyboard, Supabase, SwiftData, Machine Learning (BirdFlow ML)</li>
+    <li><b>Highlights:</b> Bird ID workflow, migration path visualization, and secure authentication.</li>
+    <li><b>Repository:</b> <a href="https://github.com/Aradhya-Bhagwat/MITWPU-Group20-SkyTrails.git">MITWPU-Group20-SkyTrails</a></li>
+  </ul>
+</details>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2d6a4f&icon_color=40916c&text_color=586069&hide_border=true" alt="Top Languages Card" height="175" />
-</p>
+<!-- Loan Management System -->
+<details>
+  <summary><b>💰 Loan Management System — Fintech iOS Ecosystem</b></summary>
+  <br/>
+  <p>
+    A full-stack fintech ecosystem comprising two native iOS applications (<i>Udhar De</i> & <i>Udhar Le</i>) designed for intelligent risk assessment and automated KYC extraction.
+  </p>
+  <ul>
+    <li><b>Stack:</b> SwiftUI, Supabase, VisionKit OCR, Analytic Hierarchy Process (AHP) Engine</li>
+    <li><b>Highlights:</b> Intelligent risk profiling engine, automated text/document OCR recognition, and two-app communication flow.</li>
+    <li><b>Repository:</b> <a href="https://github.com/Aradhya-Bhagwat/Loan-Management-System.git">Loan-Management-System</a></li>
+  </ul>
+</details>
+
+<!-- GreenAura -->
+<details>
+  <summary><b>🍃 GreenAura — Swift Student Challenge Submission</b></summary>
+  <br/>
+  <p>
+    An immersive wellness mobile application blending ancient breathwork exercises with modern visual feedback. Features a living dashboard and dynamic aura visualization to sync user flow with nature's rhythm.
+  </p>
+  <ul>
+    <li><b>Stack:</b> SwiftUI, Swift 6, AVFoundation, Custom Canvas Animations</li>
+    <li><b>Highlights:</b> Nature-driven bio-dialogue, immersive ambient audio, and aura resonance visualizer.</li>
+    <li><b>Repository:</b> <a href="https://github.com/Aradhya-Bhagwat/GreenAura.git">GreenAura</a></li>
+  </ul>
+</details>
+
+<!-- Interactive Calculator -->
+<details>
+  <summary><b>🔢 Interactive Calculator — SQL & NoSQL Integration</b></summary>
+  <br/>
+  <p>
+    A full-stack calculator application featuring user accounts and computation logs. Features a custom database adapter that allows the developer/system to hot-swap backends between MySQL and MongoDB.
+  </p>
+  <ul>
+    <li><b>Stack:</b> Node.js, Express, MySQL, MongoDB, JWT Auth, Vanilla JavaScript</li>
+    <li><b>Highlights:</b> Dual-database switcher pattern, persistent calculation history, and JWT session handling.</li>
+    <li><b>Repository:</b> <a href="https://github.com/Aradhya-Bhagwat/Calculator.git">Calculator</a></li>
+  </ul>
+</details>
+
+<!-- Banking System -->
+<details>
+  <summary><b>🏛️ Banking System — OOP Foundation</b></summary>
+  <br/>
+  <p>
+    A terminal-based CLI banking simulator built to demonstrate robust object-oriented programming principles and persistent binary file I/O operations.
+  </p>
+  <ul>
+    <li><b>Stack:</b> C++, Standard Library, File I/O</li>
+    <li><b>Highlights:</b> Dynamic memory allocation, polymorphic class structures, and secure local file storage.</li>
+    <li><b>Repository:</b> <a href="https://github.com/Aradhya-Bhagwat/Banking-System-in-C.git">Banking-System-in-C</a></li>
+  </ul>
+</details>
+
+<br/>
 
 ---
 
-### 🏆 GitHub Achievements
+### 📚 Knowledge Grove
+*Academic research, publications, and patents in the Nature-Tech sphere:*
 
-Here is a showcase of the official milestones and badges earned through my contributions:
+* **💡 Patent: GUI-Based Species Identification** (Published March 2026)
+  - *Title:* "A System for Species Identification Using a Graphical User Interface"
+  - *Registry:* Indian Patent Office (co-inventor). Focuses on electronic methods to identify ecological species via intuitive user interfaces.
+  - *Link:* [Patent Application Status](https://iprsearch.ipindia.gov.in/PublicSearch/PublicationSearch/ApplicationStatus)
+* **📖 Book Chapter: IoT Environmental Monitoring** (Published October 2024)
+  - *Title:* "Smart IoT for Sustainable Development" (Routledge Publication)
+  - *Focus:* Leveraging distributed IoT sensor networks to track pollution indices and climate metrics, enabling data-informed ecological decision-making.
+  - *Link:* [Routledge Book Page](https://www.routledge.com/Smart-IoT-for-Sustainable-Development/Subhedar-Mahalle-Pawar/p/book/9781032887692)
+* **📄 Research Paper: 7-in-1 Soil IoT Sensor** (Presented May 2024)
+  - *Conference:* ICAAICS 2024 (Pune)
+  - *Focus:* Research and implementation of multi-parametric soil sensors designed to monitor real-time soil chemistry and moisture, optimizing crop yields and agricultural inputs.
+  - *Link:* [Presentation Certificate / Details](https://drive.google.com/file/d/1aCPhbEa8J0xbAX4fcRLLh-1DV4C3gj0q/view?usp=sharing)
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" alt="YOLO" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="80" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor" width="80" />
-</p>
+<br/>
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 📬 Get In Touch
+*Let's connect, collaborate, and grow something impactful together:*
 
-*This grid updates automatically via GitHub Actions, tracing my development activity with an interactive snake:*
+* 🌐 **Portfolio Website:** [Aradhya-Bhagwat.github.io/Personal-Profile](https://Aradhya-Bhagwat.github.io/Personal-Profile/)
+* 💼 **LinkedIn:** [linkedin.com/in/aradhya-bhagwat-927723289](https://www.linkedin.com/in/aradhya-bhagwat-927723289/)
+* 💻 **LeetCode:** [leetcode.com/u/AradhyaBhagwat](https://leetcode.com/u/AradhyaBhagwat/)
+* ✉️ **Email:** [aradhya.bhagwat@gmail.com](mailto:aradhya.bhagwat@gmail.com)
+
+<br/>
+
+---
+
+### 🐍 Activity Roots
+*This contribution grid updates automatically via GitHub Actions, tracing my development activity:*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aradhya-Bhagwat/Aradhya-Bhagwat/output/github-contribution-grid-snake-nature.svg" />
@@ -113,9 +167,8 @@ Here is a showcase of the official milestones and badges earned through my contr
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aradhya-Bhagwat/Aradhya-Bhagwat/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
----
+<br/>
 
 <p align="center">
-  <i>"In all things of nature, there is something of the marvelous." — Aristotle</i><br>
-  🌱 Driven by curiosity, dedicated to craft.
+  <i>"In all things of nature, there is something of the marvelous." — Aristotle</i>
 </p>
