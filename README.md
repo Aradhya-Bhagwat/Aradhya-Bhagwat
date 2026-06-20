@@ -26,6 +26,7 @@
 * **🧠 Machine Learning & Data**: Integrating predictive models and intelligent algorithms, from bird migration tracking to risk assessment engines.
 * **⚙️ C++ & OOP Foundations**: Strong background in object-oriented programming, dynamic memory allocation, and core software design principles.
 * **🎨 UI/UX Design**: Immersive, nature-inspired digital interfaces that balance clean, organic aesthetics with intuitive UX.
+* **🛡️ QA & Mobile Automation**: Constructing robust web E2E testing suites using **Playwright** and mobile automation scripts via the **u2connector** library (Python / UI Automator2).
 * **🔄 Agile Workflows**: Experienced in Scrum practices, team collaboration, Jira, and managing structured sprint pipelines.
 
 <br/>
@@ -141,6 +142,29 @@
   - *Conference:* ICAAICS 2024 (Pune)
   - *Focus:* Research and implementation of multi-parametric soil sensors designed to monitor real-time soil chemistry and moisture, optimizing crop yields and agricultural inputs.
   - *Link:* [Presentation Certificate / Details](https://drive.google.com/file/d/1aCPhbEa8J0xbAX4fcRLLh-1DV4C3gj0q/view?usp=sharing)
+
+<br/>
+
+---
+
+### 📊 GitHub Metrics
+*An overview of my contribution velocity, language distribution, and streak metrics:*
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td valign="top" align="center" width="50%" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true&hide=contribs" alt="GitHub Stats" height="165" />
+    </td>
+    <td valign="top" align="center" width="50%" style="border: none; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2e7d32&ring=4ade80&currStreakLabel=4ade80&currStreakNum=2e7d32&sideNums=2e7d32&sideLabels=4ade80&border=00000000" alt="GitHub Streak" height="165" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td valign="top" align="center" colspan="2" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true" alt="Top Languages Card" height="165" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
