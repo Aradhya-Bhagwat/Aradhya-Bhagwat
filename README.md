@@ -82,12 +82,14 @@
 
 ---
 
-### 🌱 Technical Seedlings
-*Core languages and frameworks powering my repositories:*
+### 🌳 The Tech Tree
+*An organic mapping of my tech stack, from fundamental data roots to active testing and IoT canopies:*
 
-<p align="left">
-  <code>Swift</code> &bull; <code>TypeScript</code> &bull; <code>Python</code> &bull; <code>Node.js</code> &bull; <code>Supabase</code> &bull; <code>C++</code> &bull; <code>React</code>
-</p>
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **🍃 Canopy (Tools & E2E)** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) &nbsp; ![ThingsBoard](https://img.shields.io/badge/ThingsBoard-1F8CED?style=flat-square&logo=thingsboard&logoColor=white) &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🌿 Trunk (Languages)** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) &nbsp; ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) &nbsp; ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **🌱 Roots (Data & Cloud)** | ![Supabase](https://img.shields.io/badge/Supabase-3FC08D?style=flat-square&logo=supabase&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) &nbsp; ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) &nbsp; ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
 
 <br/>
 
