@@ -41,7 +41,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
     <td valign="top" align="center" width="50%" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true&hide=contribs" alt="GitHub Stats" height="175" />
+      <img src="https://github-stats-extended.vercel.app/api?username=Aradhya-Bhagwat&show_icons=true&locale=en&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true&hide=contribs" alt="GitHub Stats" height="175" />
     </td>
     <td valign="top" align="center" width="50%" style="border: none; padding: 10px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhya-Bhagwat&background=00000000&fire=2e7d32&ring=4ade80&currStreakLabel=4ade80&currStreakNum=2e7d32&sideNums=2e7d32&sideLabels=4ade80&border=00000000" alt="GitHub Streak" height="175" />
@@ -49,7 +49,7 @@
   </tr>
   <tr style="border: none;">
     <td valign="top" align="center" colspan="2" style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true" alt="Top Languages Card" height="175" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aradhya-Bhagwat&layout=compact&langs_count=6&bg_color=00000000&title_color=2e7d32&icon_color=4ade80&text_color=586069&hide_border=true" alt="Top Languages Card" height="175" />
     </td>
   </tr>
 </table>
